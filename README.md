@@ -5,8 +5,6 @@
 ### Security-Focused Web3 & DevOps Engineer
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/toov00)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
 
 </div>
 
@@ -59,20 +57,6 @@ I'm an engineer specializing in **secure blockchain applications** and **robust 
 - **Frontend**: React, Next.js, TypeScript
 - **Desktop**: Electron
 - **Testing**: Jest, Mocha, Pytest
-
----
-
-## GitHub Analytics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=toov00&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
-
-![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=toov00&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=toov00&layout=compact&theme=radical&hide_border=true&langs_count=8)
-
-</div>
 
 ---
 
