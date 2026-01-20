@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi there, I'm toov00
+# Hi there, I'm toov00! 👋 
 
 ### Security-Focused Web3 & DevOps Engineer
 
@@ -10,11 +10,11 @@
 
 ## About Me
 
-I'm an engineer specializing in **secure blockchain applications** and **robust infrastructure**. I combine security-first thinking with modern DevOps practices to build scalable, reliable systems in the Web3 ecosystem.
+I am a Cybersecurity engineer specializing in the development of secure blockchain applications and infrastructure. I combine security-first thinking with modern DevOps practices to build scalable, reliable systems in the Web3 ecosystem.
 
 - **Security Enthusiast**: Deep focus on smart contract security and secure development practices
 - **Infrastructure Builder**: Designing and deploying resilient cloud-native architectures
-- **Web3 Explorer**: Continuously learning and implementing cutting-edge blockchain technologies
+- **Web3 Explorer**: Continuously learning and implementing latest blockchain technologies
 - **AI Integration**: Exploring AI-centric deployment patterns and automation
 
 ---
