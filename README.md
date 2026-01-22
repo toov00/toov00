@@ -41,6 +41,6 @@ There's a lot of potential in combining AI/ML with blockchain and infrastructure
 
 <div align="center">
 
-⭐️ From [toov00](https://github.com/toov00)
+💌 From [toov00](https://github.com/toov00)
 
 </div>
