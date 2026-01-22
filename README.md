@@ -4,7 +4,7 @@
 
 </div>
 
-## Relevant Stacks: 
+## RELEVANT STACKS: 
 
 ### Blockchain & Web3
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
@@ -33,7 +33,7 @@ I write a lot of Python and JavaScript/Node.js for backend stuff, and I have don
 
 ---
 
-## Current Direction:
+## CURRENT DIRECTION:
 
 There's a lot of potential in combining AI/ML with blockchain and infrastructure work, so I have been experimenting with that. And of course, I'm always trying to get better at security auditing and contribute to best practices around smart contract security.
 
