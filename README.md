@@ -4,7 +4,7 @@
 
 </div>
 
-## Relevant Stacks 
+## Relevant Stacks: 
 
 ### Blockchain & Web3
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
@@ -29,7 +29,7 @@ On the infrastructure side, I am pretty comfortable with Kubernetes and the whol
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-I write a lot of Python and JavaScript/Node.js for backend stuff, and I have done my fair share of Java work too (for more private stuff!). For systems programming, I have used C and C++ when I need that lower-level control. On the frontend, I mostly work with React and Next.js. I have also built some desktop apps with Electron. For testing, I usually reach for Mocha or Pytest depending on what I'm working with.
+I write a lot of Python and JavaScript/Node.js for backend stuff, and I have done my fair share of Java work too (for more private things!). For systems programming, I have used C and C++ when I need that lower-level control. On the frontend, I mostly work with React and Next.js. I have also built some desktop apps with Electron. For testing, I usually reach for Mocha or Pytest depending on what I'm working with.
 
 ---
 
