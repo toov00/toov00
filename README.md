@@ -1,6 +1,6 @@
 <div align="center">
 
-# ☁️ A WARM WELCOME ☁️ 
+# A WARM WELCOME
 
 </div>
  
