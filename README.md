@@ -4,8 +4,8 @@
 
 </div>
  
-I am a cybersecurity engineer, and I love building all kinds of fun projects! 
-Inclined to focus on streamlining inconveniences through code, I hope that my projects will be of use to you as well 🌟
+Primarily a cybersecurity engineer, I love building all kinds of fun projects! 
+I am inclined to focus on streamlining inconveniences through code, I hope that my projects will be of use to you as well 🌟
 
 (( I am a huge Hyperliquid believer, which explains some fun projects I have in my page! ))
 
