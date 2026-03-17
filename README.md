@@ -4,9 +4,9 @@
 
 </div>
  
-I am a researcher in the cybersecurity field, and I love working on all kinds of fun projects! Building cute things, in particular, makes me feel alive 🐝 I hope that my projects will bring you some joy 🌟
+I am a researcher in the cybersecurity field, and I love working on all kinds of fun projects! Building cute things, in particular, makes me feel aliveeeee 🐝 
 
-fun fact: I am a HUGE Hyperliquid believer
+Hopefully, this repository will bring you some joy 🌟
 
 ---
 
